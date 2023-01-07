@@ -153,8 +153,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: lidar
+          tag: lidar
+        - name: Greenland
+          tag: Greenland
         - name: Other
           tag: Demo
     design:

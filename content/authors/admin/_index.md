@@ -1,6 +1,6 @@
 ---
 title: Thomas Goelles
-role: "Scientist at Karl-Franzens-Universität Graz and Virtual Vehicle Reaserch "
+role: "Scientist at Karl-Franzens-Universität Graz and Virtual Vehicle Research "
 bio: My research interests include glaciology, lidar, albedo and numerical
   modelling of ice sheet processes
 interests:
@@ -15,6 +15,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Thomas_Goelles2
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-3925-6260
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=smwYHeIAAAAJ
@@ -24,12 +30,10 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/thomasgoelles/
-- icon: researchgate
-  icon_pack: fab
-  link: https://www.researchgate.net/profile/Thomas_Goelles2
+
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Graz
+    url: https://www.uni-graz.at/
 education:
   courses:
   - course: PhD in Glaciology
@@ -42,8 +46,6 @@ education:
     institution: University of Graz
     year: 2007
 superuser: true
-status:
-  icon: ☕️
 last_name: Goelles
 highlight_name: true
 first_name: Thomas

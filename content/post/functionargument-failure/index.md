@@ -31,7 +31,7 @@ Lets define a function which divides the argument by 2:
 
 As expected when we give it 1 we get 0.5. But what happens if we give it an image as argument?
 
-![Total Example 2](/media/blog/devidedBy2_media.png)
+![Total Example 2](/media/blog/devidedBy2_img.png)
 
 We get another image which is a bit darker. This is not what we expected therefore we need to restrict the definition of the function:
 

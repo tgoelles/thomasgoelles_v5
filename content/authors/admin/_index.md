@@ -1,5 +1,5 @@
 ---
-title: Thomas Goalies
+title: Thomas Goelles
 role: "Scientist at Karl-Franzens-Universität Graz and Virtual Vehicle Reaserch "
 bio: My research interests include glaciology, lidar, albedo and numerical
   modelling of ice sheet processes

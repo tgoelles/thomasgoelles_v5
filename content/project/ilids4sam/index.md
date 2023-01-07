@@ -9,7 +9,7 @@ tags:
 external_link: https://www.ilids4sam.at/home
 links: []
 image:
-  filename: featured
+  filename: ilids4sam_logo.png
   focal_point: Smart
   preview_only: false
 ---

@@ -15,6 +15,10 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: mastodon
+  icon_pack: fab
+  name: Follow
+  link: https://fosstodon.org/@thomasgoelles
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Thomas_Goelles2

@@ -1,28 +1,24 @@
 ---
-title: Example Talk
+title: "Automotive lidar, dgnss and inertia sensors for glaciological applications: first experience and future potential"
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: IGS Nordic Branchmeeting 2022
+event_url: https://www.igsoc.org/event/uppsala-2022
 
-location: Wowchemy HQ
+location: Uppsala University
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  country: Sweden
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Using automotive lidar, dgnss and inertia sensors for glaciological applications
+abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2022-10-28T10:00:00Z'
+date_end: '2022-10-28T10:30:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-01-01T00:00:00Z'
 
 authors: []
 tags: []
@@ -35,10 +31,10 @@ image:
   focal_point: Right
 
 links:
-  - icon: twitter
+  - icon: mastodon
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://fosstodon.org/@thomasgoelles
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -49,7 +45,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -57,17 +53,7 @@ slides: example
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-  - example
+  - []
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
 
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.

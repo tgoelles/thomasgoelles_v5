@@ -1,10 +1,10 @@
 ---
-title: Slides
-summary: An introduction to using Wowchemy's Slides feature.
+title: "Automotive lidar, dgnss and inertia sensors for glaciological applications: first experience and future potential"
+summary: []
 authors: []
 tags: []
 categories: []
-date: '2019-02-05T00:00:00Z'
+date: '2022-10-28T00:00:00Z'
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black

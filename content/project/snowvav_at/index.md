@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "SnowAV_AT"
+title: "RSnow_AUT"
 summary: ""
 authors: []
 tags: [avalanche, lidar]
@@ -40,7 +40,7 @@ url_video: ""
 slides: ""
 ---
 
-One year exploratory project funded by the Austrian Research Promotion Agency (FFG) to develop a snow avalanche detection service for the Austrian Alpine region using remote sensing data from Sentinel and automotive lidar data.
+Three year to develop a snow avalanche detection service for the Austrian Alpine region using remote sensing data from Sentinel and automotive lidar data.
 
 
 Each year about 100 people lose their lives in snow avalanches in the European Alps and in addition the annual financial loss due to road closures and damages is estimated to be more than one billion euros in Europe only. Avalanche forecasting is currently done by human experts. The overall avalanche activity of a specific region is often unknown even though this information is very important to deliver accurate predictions.

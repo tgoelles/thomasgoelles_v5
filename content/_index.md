@@ -127,6 +127,8 @@ sections:
           tag: '*'
         - name: lidar
           tag: lidar
+        - name: avalanche
+          tag: avalanche
         - name: Greenland
           tag: Greenland
         - name: Other

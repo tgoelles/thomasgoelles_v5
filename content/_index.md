@@ -34,10 +34,11 @@ sections:
           description: |2-
 
               * Co-lead for Spin-Off project
-              * Research
-              * Modelling
+              * Avalanche Research
+              * Lead Software Architect in 2 Research Projects
               * Development and automatisation
               * Proposal writing
+
         - title: Senior Scientist
           company: Virtual Vehicle Research GmbH
           company_url: 'https://www.v2c2.at'
@@ -66,8 +67,8 @@ sections:
         - name: Data Science
           icon: chart-line
           icon_pack: fas
-        - name: Machine Learning
-          icon: robot
+        - name: Automotive
+          icon: car
           icon_pack: fas
         - name: Python
           icon: python

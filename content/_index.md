@@ -37,7 +37,7 @@ sections:
 
   - block: experience
     content:
-      title: Experience
+      title: Current Positions
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -47,27 +47,36 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Scientist
+          company: Unverisity of Graz
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo: Logo_Universitaet-Graz_4c
+          location: Graz, Austria
+          date_start: '2021-10-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
 
-              * Analysing
+              * Co-lead for Spin-Off project
+              * Research
               * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * Development and automatisation
+              * Proposal writing
+        - title: Senior Scientist
+          company: Virtual Vehicle Research GmbH
+          company_url: 'https://www.v2c2.at'
+          company_logo: ""
+          location: Graz, Austria
+          date_start: '2019-09-01'
+          date_end: ''
+          description: |2-
+
+            * Leading several projects on automotive lidar
+            * Data Management
+            * Reproducible Science
+            * Data Science
+            * Lidar testing
+            * Proposal writing
+
     design:
       columns: '2'
   - block: accomplishments
@@ -246,7 +255,7 @@ sections:
           id:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+          captcha: true
     design:
       columns: '2'
 ---

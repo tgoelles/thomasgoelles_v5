@@ -19,21 +19,12 @@ The protection of your personal data is very important to us. Therefore we proce
 Through the contact form and automatically when using the website through the following services:
 
 ### Google Analytics
-This website uses functions of the web analytics service Google Analytics. Provider is Google Inc., 1600 Amphitheater Parkway Mountain View, CA 94043, USA.
-
-For this purpose, cookies are used that allow an analysis of how the website is use by visitors. The information generated thereby is transmitted to the server of the provider and stored there.
-You can prevent this by disabling the cookie storage in your browser. We have concluded a corresponding data processing contract with the provider.
-
-For more information on how to handle user data on Google Analytics, please refer to the Google Privacy Policy: https://support.google.com/analytics/answer/6004245?hl=en
-
-A cookie is stored on your computer for up to two years. To prevent cookies from being received, download and install [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout).
-
-
+is turned off
 
 ## Cookies
 Our website uses cookies. These are small text files that are stored on your device using the browser. They do no harm.
 
-We use cookies to make our offer user-friendly and for Google Analytics.
+We use cookies to make our offer user-friendly
 
 If you do not want this, you can set up your browser to inform you about the setting of cookies and allow this only in individual cases.
 

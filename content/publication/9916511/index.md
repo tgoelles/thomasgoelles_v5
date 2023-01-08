@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Birgit Schlager
-- Thomas Goelles
+- admin
 - Stefan Muckenhuber
 - Daniel Watzenig
 tags: []

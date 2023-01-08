@@ -11,11 +11,11 @@ authors:
 - Stefan Muckenhuber
 - Sarah Haas
 - Tobias Hammer
-tags: []
+tags: [lidar]
 categories: []
 date: '2021-01-01'
 lastmod: 2023-01-08T00:25:45+01:00
-featured: false
+featured: true
 draft: false
 
 # Featured image

@@ -13,4 +13,4 @@ cat presentations.bib publications.bib > all_publications.bib
 academic import --bibtex all_publications.bib --verbose
 
 # replace Thomas Goelles with admin in all markdown files in the content/publication folder
-find content/publication -type f -exec sed -i '' 's/Thomas Goelles/admin/g' {} +
+find content/publication -name "*.md" -exec sed -i '' 's/Thomas Goelles/admin/g' {} +

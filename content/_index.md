@@ -138,13 +138,31 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: markdown
+    id: teaching
     content:
-      title: Gallery
+      title: Teaching
       subtitle: ''
       text: |-
-        {{< gallery album="demo" >}}
+        ## Current Teaching
+        * Automotive Sensors and Actuators, Laboratory, TU Graz, 2022/23
+
+        ## Past Teaching
+        * Geoscientific model development: best practices of software development and an introduction to machine learning, Uni Graz, 2021
+        * Field trip (Snow and avalanches), Uni Graz, 2022
+        * Snow and ice processes (AGF-212), The University Centre in Svalbard, 2010-2014
+        * IPY field school, The University Centre in Svalbard, 2011 & 2012
+        * Arctic hydrology and climate (AT-209), The University Centre in Svalbard, 2010
+        * 3D-CAD, E&S IT-Consulting, 2006-2007
     design:
-      columns: '1'
+      columns: '2'
+  # - block: markdown
+  #   content:
+  #     title: Gallery
+  #     subtitle: ''
+  #     text: |-
+  #       {{< gallery album="demo" >}}
+  #   design:
+  #     columns: '1'
   - block: collection
     id: featured
     content:

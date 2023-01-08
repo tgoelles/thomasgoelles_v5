@@ -155,14 +155,14 @@ sections:
         * 3D-CAD, E&S IT-Consulting, 2006-2007
     design:
       columns: '2'
-  # - block: markdown
-  #   content:
-  #     title: Gallery
-  #     subtitle: ''
-  #     text: |-
-  #       {{< gallery album="demo" >}}
-  #   design:
-  #     columns: '1'
+  - block: markdown
+    content:
+      title: Gallery
+      subtitle: ''
+      text: |-
+        {{< gallery album="demo" >}}
+    design:
+      columns: '1'
   - block: collection
     id: featured
     content:

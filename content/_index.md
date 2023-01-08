@@ -125,14 +125,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: lidar
-          tag: lidar
         - name: avalanche
           tag: avalanche
         - name: Greenland
           tag: Greenland
-        - name: Other
-          tag: Demo
+        - name: lidar
+          tag: lidar
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'

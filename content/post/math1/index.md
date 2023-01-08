@@ -1,6 +1,6 @@
 ---
 title:  Wolfram Language (Mathematica) vs. Python for data science projects
-date: "2019-02-12"
+date: 2019-02-12
 tags:
 - python
 - Mathematica

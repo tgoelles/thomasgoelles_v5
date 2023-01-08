@@ -1,6 +1,6 @@
 ---
 title:  Update on Wolfram Language (Mathematica) vs. Python for data science projects
-date: "2021-04-18"
+date: 2021-04-18
 tags:
 - python
 - Mathematica

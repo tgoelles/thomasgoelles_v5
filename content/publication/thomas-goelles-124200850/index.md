@@ -1,16 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: pointcloudset - Efficient analysis of large datasets of point clouds recorded
-  over time
+title: 'Automotive lidar, dgnss and inertia sensors for glaciological applications:
+  first experience and future potential'
 subtitle: ''
 summary: ''
 authors:
 - admin
+- Birgit Schlager
+- Stefan Muckenhuber
+- Jakob Abermann
+- Christoph Gaisberger
 tags: []
 categories: []
 date: '2022-01-01'
-lastmod: 2023-01-08T10:20:10+01:00
+lastmod: 2023-01-08T10:21:32+01:00
 featured: false
 draft: false
 
@@ -28,12 +32,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-08T09:21:32.280118Z'
+publishDate: '2023-01-08T09:21:32.170674Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*GeoPython 2022*'
-links:
-- name: URL
-  url: https://2022.geopython.net/talks.html
+publication: '*IGS Nordic Branch Meeting*'
 ---

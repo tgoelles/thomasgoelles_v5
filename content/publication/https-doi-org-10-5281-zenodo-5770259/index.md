@@ -1,16 +1,30 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: pointcloudset - Efficient analysis of large datasets of point clouds recorded
-  over time
+title: 'Automotive Lidar and Vibration: Resonance, Inertial Measurement Unit and Effects
+  on the Point Cloud'
 subtitle: ''
 summary: ''
 authors:
+- Birgit Schlager
 - admin
-tags: []
+- Marco Behmer
+- Stefan Muckenhuber
+- Johann Payer
+- Daniel Watzenig
+tags:
+- lidar
+- ROS
+- point cloud
+- vibration
+- pointcloudset
+- perception
+- automotive
+- Ouster OS1-64
+- Riegl VZ-6000
 categories: []
-date: '2022-01-01'
-lastmod: 2023-01-08T10:20:10+01:00
+date: '2021-01-01'
+lastmod: 2023-01-08T10:21:32+01:00
 featured: false
 draft: false
 
@@ -28,12 +42,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-08T09:21:32.280118Z'
+publishDate: '2023-01-08T09:21:32.382326Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
-publication: '*GeoPython 2022*'
+publication: '*Zenodo*'
+doi: 10.5281/ZENODO.5770259
 links:
 - name: URL
-  url: https://2022.geopython.net/talks.html
+  url: https://zenodo.org/record/5770259
 ---

@@ -10,7 +10,7 @@ authors:
 - Daniel Watzenig
 tags: []
 categories: []
-date: '2021-01-01'
+date: '2021-10-01'
 lastmod: 2023-01-08T00:25:45+01:00
 featured: false
 draft: false
@@ -29,10 +29,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-07T23:25:45.759216Z'
+publishDate: '2023-01-08T09:21:32.492880Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*2021 IEEE Sensors*'
-doi: 10.1109/SENSORS47087.2021.9639697
+doi: 10.1109/sensors47087.2021.9639697
+links:
+- name: URL
+  url: https://doi.org/10.1109%2Fsensors47087.2021.9639697
 ---

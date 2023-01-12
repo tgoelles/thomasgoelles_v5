@@ -145,6 +145,7 @@ sections:
       text: |-
         ## Current Teaching
         * Automotive Sensors and Actuators, Laboratory, TU Graz, 2022/23
+        * Geographical field course, 2022/23
 
         ## Past Teaching
         * Geoscientific model development: best practices of software development and an introduction to machine learning, Uni Graz, 2021

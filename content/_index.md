@@ -212,7 +212,7 @@ sections:
       text: |-
         Contact me in German, English, or Swedish
       # Contact (add or remove contact options as necessary)
-      email: thomas.goelle@gmail.com
+      email: thomas.goelles@gmail.com
       phone: ""
       appointment_url: ''
       address:

@@ -17,6 +17,7 @@ image:
 
 ---
 
+original published: 2019-02-12
 
 # Introduction
 There are many blog posts comparing R and Python for data science but there are only a few about Wolfram vs. Python. In this post I will show some differences between Wolfram and Python and presume that you are familiar with Python but not with Wolfram. Python is now the [most popular language](https://www.kdnuggets.com/2018/05/poll-tools-analytics-data-science-machine-learning-results.html) for data science projects, while the Wolfram Language is rather a niche language in this concern.

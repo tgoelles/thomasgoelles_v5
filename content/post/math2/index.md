@@ -7,7 +7,7 @@ tags:
   - python
   - Mathematica
 image:
-  filename: featured
+  filename: /media/blog/adventdalen.jpg
   caption: ""
   focal_point: ""
   preview_only: false
@@ -28,13 +28,15 @@ Also with Wolfram debugging was a nightmare, especially since everything is a sy
 
 {{% figure src="/media/blog/mathematica/failure.png" width="100%" %}}
 
+![functionArgumentFailure](/media/blog/mathematica/failure.png)
+
 There might be some benefits using the Workbench which is Eclipse based. Yes Eclipse in 2023.
 
 There is just so much great tooling out there in Python. Like VS Code with the official Python extensions or GibHub copilot, black, streamlit and many more.
 
 Besides tooling there are of course so many state of the art packages. Recently I started on a project where we want to detect avalanches from satellite data.  We will use the new [torchgeo](https://github.com/microsoft/torchgeo) package for this which is specially for remote sensing data.
 
-{{% figure src="[/media/blog/mathematica/failure.png](https://raw.githubusercontent.com/microsoft/torchgeo/main/images/vhr10.png)" width="100%" %}}
+![An example from the trochgeo package:]([/media/blog/mathematica/failure.png](https://raw.githubusercontent.com/microsoft/torchgeo/main/images/vhr10.png))
 
 Collaboration and deployment with Docker collaboration is now so uch easier and you can define a custom Python environments isolated from the system for all project members. Although, this is still more hassle then just starting Mathematica, but it gives more flexibility. For Example in the avalanche project we will use a custom docker image with all the dependencies and code and use the same setup for local development on M1 and x86 machines and GPU servers.
 

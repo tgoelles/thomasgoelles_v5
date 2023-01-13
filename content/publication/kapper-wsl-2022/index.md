@@ -1,21 +1,25 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Local snow avalanche monitoring based on automotive lidar and radar sensors,”
-  in International Symposium on Snow 2022.
+title: Novel machine-learning-based approach for automated snow avalanche detection
+  from SAR images for the Austrian Alps.
 subtitle: ''
 summary: ''
 authors:
+- K. L. Kapper
 - Stefan Muckenhuber
 - admin
+- Andreas Trügler
+- Muhamed Kuris
+- Jakob Abermann
+- Erik Malnes
+- Jakob Grahn
 - Birgit Schlager
-- K. L. Kapper
-- A. Prokop
 - W. Schöner
 tags: []
 categories: []
 date: '2022-10-01'
-lastmod: 2023-01-08T10:21:32+01:00
+lastmod: 2023-01-13T08:31:08+01:00
 featured: false
 draft: false
 
@@ -32,10 +36,13 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["snowav_at"]
-publishDate: '2023-01-08T09:21:32.597742Z'
+projects: []
+publishDate: '2023-01-13T07:29:53.979409Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*WSL Institute for Snow and Avalanche Research SLF, 2022*'
+links:
+- name: URL
+  url: https://www.igsoc.org/wp-content/uploads/2022/10/procabstracts_79.html
 ---

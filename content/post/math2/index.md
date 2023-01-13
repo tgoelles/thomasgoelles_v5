@@ -60,5 +60,3 @@ Pattern matching is build in everywhere in Wolfram, which I really liked. Also t
 ## Conclusion
 
 I am happy that I made the switch to Python, but I wish for some things from Wolfram to find their way into Python. I still think that Wolfram is great for some use cases, but it just can not do all and everything for everyone, even if their marketing says so. During my PhD I was convinced that I would have an advantage using this fancy Language. I wrote 2/3 of my PhD Thesis code in Wolfram which I can not share to the community and is hard to maintain. I hope to get funding to translate the main parts into Python soon.
-
-![Albedo model with GUI in Wolfram](/media/blog/sensitivity_gui.png)

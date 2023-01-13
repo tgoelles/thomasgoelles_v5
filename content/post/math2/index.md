@@ -1,33 +1,33 @@
 ---
-title:  Update on Wolfram Language (Mathematica) vs. Python for data science projects
-date: 2021-04-18
-tags:
-- python
-- Mathematica
+title: Update on Wolfram Language (Mathematica) vs. Python for data science projects
+date: 2023-01-13T13:14:44.697Z
 draft: true
-
+featured: true
+tags:
+  - python
+  - Mathematica
 image:
-  filename: "featured"
+  filename: featured
   caption: ""
   focal_point: ""
   preview_only: false
-
 ---
 
 # Introduction
 
-It has been now more than two years since my last post about Mathematica vs Python. It gaint quite some popularity and reached place two on the google search. Also, I got some direct enquires by Wolfram employees and an enquire to write a book. So I think it deserves and update.
+It has been now almost four years since my last post about Mathematica vs Python. It gaint quite some popularity and reached place one on the google search. Also, I got some direct enquires by Wolfram employees and an enquire to write a book. So I think it deserves an update.
 
-Two years is a long time and a lot has changed. Python gained a lot in popularity especially due to the influx of data science users from other languages. Pandas is bast 1.2 now.  Also new packages like streamlit and FastAPI help to get your data science projects out there even faster. On the wolfram side Mathematica 12.2 is released and the ecosystem bacame a bit more open with Python integration and even a free [Wolfram Engine] (https://www.wolfram.com/developer/). Althouth, the free Engine is a nice idea opens up the ecosystem a bit it is still not free for production or even research. I don't know all the details about Wolframs licensing schme, but I do know that Python is free for all use cases.
+Four years is a long time and a lot has changed. Python gained a lot in popularity especially due to the influx of data sciencetists from other languages. Pandas is stable and past 1.5 now.  Also new packages like streamlit and FastAPI help to get your data science projects out there even faster. On the wolfram side Mathematica 13.2 is released and the ecosystem became a bit more open with Python integration and even a free [Wolfram Engine] (https://www.wolfram.com/developer/). Althouth, the free Engine is a nice idea and opens up the ecosystem a bit it is still not free for production or even research. I don't know all the details about Wolframs licensing scheme and don't want to read all the fine print. All I know is that Python is free for all use cases. 
 
-As a disclaimer and spoiler up front: I did not use Mathematica 12 and transisioned to 100% Python. So this time the focus is more on the perspective of a past Mathematica user, while the last one was from a Matheamtica user who tried a little bit of Python.
+As a disclaimer and spoiler up front: I did not use Mathematica beyhod 11 and transisioned to 100% Python. So this time the focus is more on the perspective of a past Mathematica user, while the last one was from a Matheamtica user who tried a little bit of Python.
 
 ## Why I am happy with the switch
 
-I just like how readable the code is and how easy it is to maintain large coud bases. I don't miss all the {} and [] at all. With big
+I just like how readable the code is and how easy it is to maintain large code bases. I don't miss all the {} and [] at all. 
 
-Also with Wolfram debugging was a nightmare. Mathematica could
-Since you can pass everything to everything, it can
+Also with Wolfram debugging was a nightmare, especially since everything is a symbol and a function can take form and image to a sound file or an integer as imput. This is Wolframs strenght, and somethimes realy powerfull, but makes debugging not fun. There might be some benefits using the Workbench which is Ecliplse based. Yes in 2023.
+
+There is just so much great tooling out there in Python. Like VS Code with the Python extensions of GibHub copilot. 
 
 Finding answers
 

@@ -7,7 +7,7 @@ tags:
   - python
   - Mathematica
 image:
-  filename: /media/blog/adventdalen.jpg
+  filename: adventdalen
   caption: ""
   focal_point: ""
   preview_only: false
@@ -27,7 +27,7 @@ I just like how readable the code is and how easy it is to maintain large code b
 Also with Wolfram debugging was a nightmare, especially since everything is a symbol and a function can take everything from an image to a sound or an integer as input. This is Wolframs strengths, and really powerful, but makes debugging not fun. I even developed a custom package to make debugging easier. A package like a very very basic version of mypy for Python: [functionArgumentFailure](https://github.com/tgoelles/functionArgumentFailure).
 
 
-![functionArgumentFailure](/media/blog/mathematica/failure.png)
+![functionArgumentFailure](media/blog/mathematica/failure.png)
 
 There might be some benefits using the Workbench which is Eclipse based. Yes Eclipse in 2023.
 
@@ -60,3 +60,5 @@ Pattern matching is build in everywhere in Wolfram, which I really liked. Also t
 ## Conclusion
 
 I am happy that I made the switch to Python, but I wish for some things from Wolfram to find their way into Python. I still think that Wolfram is great for some use cases, but it just can not do all and everything for everyone, even if their marketing says so. During my PhD I was convinced that I would have an advantage using this fancy Language. I wrote 2/3 of my PhD Thesis code in Wolfram which I can not share to the community and is hard to maintain. I hope to get funding to translate the main parts into Python soon.
+
+![Albedo model with GUI in Wolfram](media/blog/sensitivity_gui.png)

@@ -59,5 +59,5 @@ email: ""
 My current research is on avalanches and how to detect them in satellite remote sensing and with lidar data. While, my PhD was in glaciology were I developed numerical models of the Greenland ice sheet and studied black carbon and albedo. Overall I am interested in data analytics and increasing research quality by automating the mundane tasks wherever possible. For this I like to dive deep into interesting technology such as docker, streamlit, dask, FastAPI and of course machine learning.
 
 
-I co-founded and sold [a guiding company](http://fatbikespitsbergen.com) in the northernmost town at [78 degrees north](https://en.wikipedia.org/wiki/Longyearbyen). I was also a co-founder at ATSEDA AB - a data science company in Sweden. Currently, I am working on a Unversity spin-off based on our research linked to avalanches and lidar.
+I co-founded and sold [a guiding company](http://fatbikespitsbergen.com) in the northernmost town at [78 degrees north](https://en.wikipedia.org/wiki/Longyearbyen). I was also a co-founder at ATSEDA AB - a data science company in Sweden. Currently, I am working on a University spin-off based on our research linked to avalanches and lidar.
 

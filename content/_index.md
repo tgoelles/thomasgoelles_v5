@@ -144,10 +144,12 @@ sections:
       subtitle: ''
       text: |-
         ## Current Teaching
-        * Automotive Sensors and Actuators, Laboratory, TU Graz, 2022/23
-        * Geographical field course, 2022/23
+        * Practical Course in Hydrology
+
 
         ## Past Teaching
+        * Automotive Sensors and Actuators, Laboratory, TU Graz, 2022/23
+        * Geographical field course, 2022/23
         * Geoscientific model development: best practices of software development and an introduction to machine learning, Uni Graz, 2021
         * Field trip (Snow and avalanches), Uni Graz, 2022
         * Snow and ice processes (AGF-212), The University Centre in Svalbard, 2010-2014

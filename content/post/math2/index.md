@@ -1,5 +1,7 @@
 ---
-title: Wolfram Language (Mathematica) vs. Python for data science projects in 2023
+title: "A new perspective on: Wolfram Language (Mathematica) vs. Python for data
+  science projects"
+subtitle: A 2023 perspective after I moved 100% to Python
 date: 2023-01-13T13:14:44.697Z
 draft: false
 featured: true

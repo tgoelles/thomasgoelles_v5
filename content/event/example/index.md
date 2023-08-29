@@ -4,11 +4,11 @@ title: "pointcloudset - A Python package to analyze large datasets of point clou
 event: EGU General Assembly 2023
 event_url: https://meetingorganizer.copernicus.org/EGU23/session/47016
 
-location: Room -2.21
+location: Room 2.21
 address:
   country: Austria
 
-summary: EGU 2023: Talk about the Python package pointcloudset.
+summary: EGU 2023 - Talk about the Python package pointcloudset.
 abstract: 'Point clouds can be acquired by different sensor types and methods, such as lidar (light detection and ranging), radar (radio detection and ranging), RGB-D (red, green, blue, depth) cameras, SfM (structure from motion), etc.
 
 In many cases multiple point clouds are recorded over time, sometimes also referred to as 4D point clouds. For example, automotive lidars from Ouster or Velodyne record point clouds at around 10-20Hz resulting in millions of points per second. In addition, monitoring with terrestrial laser scanners is becoming used more often. Producing similar datasets than the automotive lidars, although with larger individual point clouds at a lower frame rate.

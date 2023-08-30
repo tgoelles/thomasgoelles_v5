@@ -79,7 +79,7 @@
 	volume = {25},
 	pages = {12774},
 	address = {Vienna, Austria},
-	month = {April},
+	month = { April},
 	publisher = {Copernicus GmbH},
 	doi = {10.5194/egusphere-egu23-12774}
 }
@@ -93,13 +93,22 @@
 	volume = {25},
 	pages = {6554},
 	address = {Vienna, Austria},
-	month = {April},
+	month = { April},
 	publisher = {Copernicus GmbH},
 	doi = {10.5194/egusphere-egu23-6554}
 }
 
+@article{Goelles2023,
+  doi = {10.5194/egusphere-egu23-6554},
+  url = {https://doi.org/10.5194/egusphere-egu23-6554},
+  year = {2023},
+  month = may,
+  publisher = {Copernicus {GmbH}},
+  author = {Thomas Goelles and Birgit Schlager and Stefan Muckenhuber},
+  title = {pointcloudset - A Python package to analyze large datasets of point clouds recorded over time}
+}
 
-@inproceedings{Kapper2023,
+@article{Kapper2023,
   doi = {10.5194/egusphere-egu23-12774},
   url = {https://doi.org/10.5194/egusphere-egu23-12774},
   year = {2023},
@@ -109,7 +118,7 @@
   title = {Next steps to a modular machine learning-based data pipeline for automated snow avalanche detection in the Austrian Alps}
 }
 
-@inproceedings{Muckenhuber2023,
+@article{Muckenhuber2023,
   doi = {10.5194/egusphere-egu23-4989},
   url = {https://doi.org/10.5194/egusphere-egu23-4989},
   year = {2023},
@@ -127,7 +136,7 @@
 
 
 
-@ARTICLE{Kapper2023,
+@ARTICLE{10.3389/frsen.2023.1156519,
 
 AUTHOR={Kapper, Kathrin Lisa and Goelles , Thomas and Muckenhuber , Stefan and Trügler , Andreas and Abermann , Jakob and Schlager , Birgit and Gaisberger , Christoph and Eckerstorfer , Markus and Grahn , Jakob and Malnes , Eirik and Prokop , Alexander and Schöner , Wolfgang},
 
@@ -225,6 +234,17 @@ DOI = {10.5194/gi-11-247-2022}}
 	volume = {63},
 	year = {2017},
 	bdsk-url-1 = {https://doi.org/10.1017/jog.2017.74}}
+
+
+@article{Kapper2023,
+  title={Automated snow avalanche monitoring for Austria: state of the art and roadmap for future work},
+  author={Kapper, Kathrin Lisa and Goelles, Thomas and Muckenhuber, Stefan and Tr{\"u}gler, Andreas and Abermann, Jakob and Schlager, Birgit and Gaisberger, Christoph and Eckerstorfer, Markus and Grahn, Jakob and Malnes, Eirik and Prokop, Alexander and Sch{\"o}ner, Wolfgang},
+  journal={Frontiers in Remote Sensing},
+  notes={Accepted},
+  year={2023},
+  doi             = {10.3389/frsen.2023.1156519},
+  publisher={Frontiers}
+}
 
 
 @phdthesis{Goelles:2016wi,

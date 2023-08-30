@@ -23,4 +23,6 @@ academic import --bibtex all_publications_clean.bib --verbose
 # replace Thomas Goelles with admin in all markdown files in the content/publication folder
 find content/publication -name "*.md" -exec sed -i '' 's/Thomas Goelles/admin/g' {} +
 
+echo " ! ADD PROJECTS MANUALLY ! "
+
 echo "Done updating publications page."

@@ -1,4 +1,123 @@
-%% This BibTeX bibliography file was created using BibDesk.
+@inproceedings{Thomas_Goelles_124200850,
+	title        = {Automotive lidar, dgnss and inertia sensors for glaciological applications: first experience and future potential},
+	author       = {Thomas Goelles and Birgit Schlager and Stefan Muckenhuber and Jakob Abermann and Christoph Gaisberger},
+	year         = 2022,
+	booktitle     = {IGS Nordic Branch Meeting},
+	publisher    = {{IGS}},
+}
+
+@inproceedings{Thomas_Goelles_geo,
+	title        = {pointcloudset - Efficient analysis of large datasets of point clouds recorded over time},
+	author       = {Thomas Goelles},
+	year         = 2022,
+	booktitle      = {GeoPython 2022},
+	url = {https://2022.geopython.net/talks.html}
+}
+
+@misc{https://doi.org/10.5281/zenodo.5770259,
+	title        = {Automotive Lidar and Vibration: Resonance, Inertial Measurement Unit and Effects on the Point Cloud},
+	author       = {Schlager, Birgit and Goelles, Thomas and Behmer, Marco and Muckenhuber, Stefan and Payer, Johann and Watzenig, Daniel},
+	year         = 2021,
+	publisher    = {Zenodo},
+	doi          = {10.5281/ZENODO.5770259},
+	url          = {https://zenodo.org/record/5770259},
+	copyright    = {Creative Commons Attribution 4.0 International},
+	keywords     = {lidar, ROS, point cloud, vibration, pointcloudset, perception, automotive, Ouster OS1-64, Riegl VZ-6000}
+}
+
+@inproceedings{Schlager_2021,
+	title        = {Effects of Sensor Cover Damages on Point Clouds of Automotive Lidar},
+	author       = {Birgit Schlager and Thomas Goelles and Daniel Watzenig},
+	year         = 2021,
+	month        = {oct},
+	booktitle    = {2021 {IEEE} Sensors},
+	publisher    = {{IEEE}},
+	doi          = {10.1109/sensors47087.2021.9639697},
+	url          = {https://doi.org/10.1109%2Fsensors47087.2021.9639697}
+}
+
+@inproceedings{Thomas_Goelles_124200577,
+	title        = {Local snow avalanche monitoring based on automotive lidar and radar sensors,\textquotedblright in International Symposium on Snow 2022.},
+	author       = { Stefan Muckenhuber and Thomas Goelles and Birgit Schlager and K. L. Kapper and A. Prokop and  W. Sch{\"o}ner},
+	booktitle      = {WSL Institute for Snow and Avalanche Research SLF, 2022},
+	publisher    = {{IGS}},
+	year         = 2022,
+	month		= {oct},
+	url             = {https://www.igsoc.org/wp-content/uploads/2022/10/procabstracts_79.html},
+}
+
+@inproceedings{Kapper_WSL_2022,
+	title        = {Novel machine-learning-based approach for automated snow avalanche detection from SAR images for the Austrian Alps.},
+	author       = {  K. L. Kapper and Stefan Muckenhuber and Thomas Goelles and Andreas Tr{\"u}gler and Muhamed Kuris and Jakob Abermann and Erik Malnes and Jakob Grahn and Birgit Schlager and  W. Sch{\"o}ner},
+	booktitle      = {WSL Institute for Snow and Avalanche Research SLF, 2022},
+	publisher    = {{IGS}},
+	year         = 2022,
+	month		= {oct},
+	url             = {https://www.igsoc.org/wp-content/uploads/2022/10/procabstracts_79.html},
+}
+
+@inproceedings{muckenhuber2023potential,
+	author = {Muckenhuber, Stefan and Goelles, Thomas and Schlager, Birgit and Kapper, Katharina L. and Prokop, Andreas and Schöner, Wolfgang},
+	title = {The potential of automotive perception sensors for local snow avalanche monitoring},
+	booktitle = {EGU General Assembly Conference Abstracts},
+	year = {2023},
+	series = {EGU General Assembly},
+	volume = {25},
+	pages = {4989},
+	address = {Vienna, Austria},
+	month = {April},
+	publisher = {Copernicus GmbH},
+	doi = {10.5194/egusphere-egu23-4989}
+}
+
+@inproceedings{kapper2023next,
+	author = {Kapper, Katharina L. and Goelles, Thomas and Muckenhuber, Stefan and Trügler, Andreas and Abermann, Jakob and Schlager, Bernhard and Gaisberger, Christoph and Grahn, Jonatan and Malnes, Eirik and Prokop, Andreas and Schöner, Wolfgang},
+	title = {Next steps to a modular machine learning-based data pipeline for automated snow avalanche detection in the Austrian Alps},
+	booktitle = {EGU General Assembly Conference Abstracts},
+	year = {2023},
+	series = {EGU General Assembly},
+	volume = {25},
+	pages = {12774},
+	address = {Vienna, Austria},
+	month = {April},
+	publisher = {Copernicus GmbH},
+	doi = {10.5194/egusphere-egu23-12774}
+}
+
+@inproceedings{goelles2023pointcloudset,
+	author = {Golles, Thomas and Schlager, Birgit and Muckenhuber, Stefan},
+	title = {pointcloudset - A Python package to analyze large datasets of point clouds recorded over time},
+	booktitle = {EGU General Assembly Conference Abstracts},
+	year = {2023},
+	series = {EGU General Assembly},
+	volume = {25},
+	pages = {6554},
+	address = {Vienna, Austria},
+	month = {April},
+	publisher = {Copernicus GmbH},
+	doi = {10.5194/egusphere-egu23-6554}
+}
+
+
+@inproceedings{Kapper2023,
+  doi = {10.5194/egusphere-egu23-12774},
+  url = {https://doi.org/10.5194/egusphere-egu23-12774},
+  year = {2023},
+  month = may,
+  publisher = {Copernicus {GmbH}},
+  author = {Kathrin Lisa Kapper and Thomas Goelles and Stefan Muckenhuber and Andreas Tr\"{u}gler and Jakob Abermann and Birgit Schlager and Christoph Gaisberger and Jakob Grahn and Eirik Malnes and Alexander Prokop and Wolfgang Sch\"{o}ner},
+  title = {Next steps to a modular machine learning-based data pipeline for automated snow avalanche detection in the Austrian Alps}
+}
+
+@inproceedings{Muckenhuber2023,
+  doi = {10.5194/egusphere-egu23-4989},
+  url = {https://doi.org/10.5194/egusphere-egu23-4989},
+  year = {2023},
+  month = may,
+  publisher = {Copernicus {GmbH}},
+  author = {Stefan Muckenhuber and Thomas Goelles and Birgit Schlager and Kathrin Lisa Kapper and Alexander Prokop and Wolfgang Sch\"{o}ner},
+  title = {The potential of automotive perception sensors for local snow avalanche monitoring}
+}%% This BibTeX bibliography file was created using BibDesk.
 %% https://bibdesk.sourceforge.io/
 
 %% Created for Thomas Gölles at 2022-05-02 10:38:55 +0200

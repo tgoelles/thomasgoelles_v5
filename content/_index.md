@@ -224,7 +224,7 @@ sections:
         postcode: '8010'
         country: Austria
         country_code: AT
-      directions: Top Level, URBI Project Offices
+      directions: Top Level
       contact_links:
         - icon: mastodon
           icon_pack: fab

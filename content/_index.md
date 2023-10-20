@@ -144,10 +144,12 @@ sections:
       subtitle: ''
       text: |-
         ## Current Teaching
-        * Practical Course in Hydrology
+        * Hydrological Monitoring of Alpine Catchments
+        * Spatial Statistical Analysis and Visualisation 1
 
 
         ## Past Teaching
+        * Practical Course in Hydrology
         * Automotive Sensors and Actuators, Laboratory, TU Graz, 2022/23
         * Geographical field course, 2022/23
         * Geoscientific model development: best practices of software development and an introduction to machine learning, Uni Graz, 2021

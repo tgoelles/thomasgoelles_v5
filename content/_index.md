@@ -147,7 +147,6 @@ sections:
         * Hydrological Monitoring of Alpine Catchments
         * Spatial Statistical Analysis and Visualisation 1
 
-
         ## Past Teaching
         * Practical Course in Hydrology
         * Automotive Sensors and Actuators, Laboratory, TU Graz, 2022/23

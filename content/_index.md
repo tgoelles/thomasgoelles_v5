@@ -144,10 +144,13 @@ sections:
       subtitle: ''
       text: |-
         ## Current Teaching
-        * Hydrological Monitoring of Alpine Catchments
-        * Spatial Statistical Analysis and Visualisation 1
+      * Spatial Statistical Analysis and Visualisation 2
+      * Field trip (snow and avalanches)}{Uni Graz
+      * Modeling in Physical Geography
 
         ## Past Teaching
+        * Spatial Statistical Analysis and Visualisation 1
+        * Hydrological Monitoring of Alpine Catchments
         * Practical Course in Hydrology
         * Automotive Sensors and Actuators, Laboratory, TU Graz, 2022/23
         * Geographical field course, 2022/23

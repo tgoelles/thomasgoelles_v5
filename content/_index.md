@@ -144,9 +144,9 @@ sections:
       subtitle: ''
       text: |-
         ## Current Teaching
-      * Spatial Statistical Analysis and Visualisation 2
-      * Field trip (snow and avalanches)}{Uni Graz
-      * Modeling in Physical Geography
+        * Spatial Statistical Analysis and Visualisation 2
+        * Field trip (snow and avalanches)
+        * Modeling in Physical Geography
 
         ## Past Teaching
         * Spatial Statistical Analysis and Visualisation 1

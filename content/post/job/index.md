@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Post"
+title: "Researcher with/without PhD for 1.5 years: avalanche detection by machine learning at Uni Graz, Austria"
 subtitle: ""
 summary: ""
 authors: []

@@ -25,7 +25,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["rsnow_aut]
+projects: ["rsnow_aut"]
 ---
 
 # Job Opportunity at the University of Graz, Austria

@@ -5,6 +5,7 @@
 
 title: Thomas Goelles, PhD # Website name
 baseURL: 'https://thomasgoelles.com/' # Website URL
+googleAnalytics: ''
 
 ############################
 ## LANGUAGE
@@ -32,8 +33,9 @@ module:
 
 enableGitInfo: false
 summaryLength: 30
-paginate: 10
 enableEmoji: true
+pagination:
+  pagerSize: 10
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]

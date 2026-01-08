@@ -15,8 +15,8 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  filename: featured.png
+  focal_point: Smart
   preview_only: false
 
 # Custom links (optional).
@@ -40,10 +40,6 @@ url_video: ""
 slides: ""
 
 links: []
-image:
-  filename: featured.png
-  focal_point: Smart
-  preview_only: false
 ---
 
 During my PhD Project at the University Centre in Svalbard and the Norwegian University of Life Sciences I conducted research on the impact of ice impurities on the Greenland Ice Sheet. I used developed  numerical models to investigate the impact of both dust and black carbon. I also develop a model to simulate impurity accumulation on the ice surface.

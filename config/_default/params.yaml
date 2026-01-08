@@ -11,6 +11,10 @@ appearance:
   font: minimal
   font_size: L
 
+# Google Analytics
+
+googleAnalytics: ''
+
 # SEO
 
 marketing:

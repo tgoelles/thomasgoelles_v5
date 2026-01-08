@@ -32,12 +32,11 @@ sections:
           date_start: '2021-10-01'
           date_end: ''
           description: |2-
-
-              * Co-lead for Spin-Off project
-              * Avalanche Research
-              * Lead Software Architect in 2 Research Projects
-              * Development and automatisation
-              * Proposal writing
+          * Lead, Spin-Off Project Development
+          * Principal Investigator, Avalanche Research
+          * Lead Software Architect, 2 Research Projects
+          * Research Software Development & Automation
+          * Grant & Proposal Writing
 
         - title: Lead Scientist
           company: Virtual Vehicle Research GmbH

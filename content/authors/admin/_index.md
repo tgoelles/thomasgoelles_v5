@@ -56,8 +56,7 @@ first_name: Thomas
 email: ""
 ---
 
-My current research is on avalanches and how to detect them in satellite remote sensing and with lidar data. While, my PhD was in glaciology were I developed numerical models of the Greenland ice sheet and studied black carbon and albedo. Overall I am interested in data analytics and increasing research quality by automating the mundane tasks wherever possible. For this I like to dive deep into interesting technology such as docker, streamlit, dask, FastAPI and of course machine learning.
+I am a researcher specializing in avalanche detection through satellite remote sensing and lidar data, following a PhD in glaciology where I modeled ice sheet dynamics and albedo. Defining myself as a 'full-stack scientist,' I focus on automating the mundane aspects of research by architecting end-to-end systems that bridge the gap between field hardware and digital insights. This is best exemplified by avalanchemonitoring.com, where I developed the full-stack architecture—from sensor integration to the REST API. My work is rooted in a deep dive into technologies like Docker, Dask, and Litestar to ensure research quality through scalable, reproducible software solutions.
 
 
-I co-founded and sold [a guiding company](http://fatbikespitsbergen.com) in the northernmost town at [78 degrees north](https://en.wikipedia.org/wiki/Longyearbyen). I was also a co-founder at ATSEDA AB - a data science company in Sweden. Currently, I am working on a University spin-off based on our research linked to avalanches and lidar.
-
+Beyond academic research, my background includes co-founding and successfully exiting a specialized guiding company in [Longyearbyen at 78°N](https://en.wikipedia.org/wiki/Longyearbyen). I also co-founded ATSEDA AB, a data science firm in Sweden, where I was responsible for product development and project management. These experiences in entrepreneurship and industrial data analytics now form the foundation for my current work on a University of Graz spin-off focused on lidar-based avalanche detection.

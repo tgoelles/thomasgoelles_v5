@@ -39,7 +39,7 @@ sections:
               * Development and automatisation
               * Proposal writing
 
-        - title: Senior Scientist
+        - title: Lead Scientist
           company: Virtual Vehicle Research GmbH
           company_url: 'https://www.v2c2.at'
           company_logo: ""
@@ -48,12 +48,24 @@ sections:
           date_end: ''
           description: |2-
 
-            * Leading several projects on automotive lidar
-            * Data Management
-            * Reproducible Science
-            * Data Science
-            * Lidar testing
-            * Proposal writing
+            * Lead projects on automotive lidar research and deployment
+            * Design and maintain data management and reproducible-science workflows
+            * Develop data-science pipelines and analysis tooling
+            * lidar system testing, validation, and field campaigns
+            * Grant and proposal writing
+
+        - title: Guest Lecturer
+          company: FH Joanneum
+          company_url: 'https://www.fh-joanneum.at/'
+          company_logo: ""
+          location: Kapfenberg, Austria
+          date_start: '2025-05-01'
+          date_end: ''
+          description: |2-
+            * Co-lead of Arctic expedition team
+            * Classroom and field lectures on technical, fieldwork and actic topics
+
+
 
     design:
       columns: '2'
@@ -144,11 +156,13 @@ sections:
       subtitle: ''
       text: |-
         ## Current Teaching
+        * Automotive Sensors and Actuators, Laboratory, TU Graz,
+        * Arctic Technology, FH Joanneum
+
+        ## Past Teaching
         * Spatial Statistical Analysis and Visualisation 2
         * Field trip (snow and avalanches)
         * Modeling in Physical Geography
-
-        ## Past Teaching
         * Spatial Statistical Analysis and Visualisation 1
         * Hydrological Monitoring of Alpine Catchments
         * Practical Course in Hydrology

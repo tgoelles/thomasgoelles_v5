@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Workshp announcemnt: Streamlining Data-Driven - Collaborative Tools and Reproducible Techniques"
+title: "Workshop Announcement: Streamlining Data-Driven Workflows Through Collaborative Tools and Reproducible Techniques"
 subtitle: ""
 summary: ""
 authors: []

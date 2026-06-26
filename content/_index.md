@@ -30,7 +30,7 @@ sections:
           company_logo: Logo_Universitaet-Graz_4c
           location: Graz, Austria
           date_start: '2021-10-01'
-          date_end: ''
+          date_end: '2025-12-31'
           description: |2-
 
             * Lead, Spin-Off Project Development
@@ -45,7 +45,7 @@ sections:
           company_logo: ""
           location: Graz, Austria
           date_start: '2019-09-01'
-          date_end: ''
+          date_end: '2026-07-31'
           description: |2-
 
             * Lead projects on automotive lidar research and deployment

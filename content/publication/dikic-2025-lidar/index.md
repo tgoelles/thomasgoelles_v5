@@ -4,7 +4,7 @@ title: 'Lidar-Based Snow Monitoring from Aerial Lifts: Gondola Deployment in the
 
 # Authors
 # A YAML list of author names
-# If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
+# If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`),
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - Berin Dikic
@@ -34,17 +34,19 @@ publication_types:
 publication: '*Journal of Glaciology*'
 publication_short: ''
 
-doi: ''
+doi: '10.1017/jog.2025.10105'
 
-abstract: ''
+abstract: 'Monitoring snow distribution in alpine terrain is critical for hydrology, avalanche safety, and climate research, yet traditional surveys are costly, hazardous, and spatially sparse. We assess a gondola-mounted, low-cost Light Detection and Ranging (lidar) system (MOLISENS) for repeated snow monitoring in Real-Time Kinematics (RTK)-denied mountain environments. The system fuses lidar, Inertial Measurement Unit (IMU), and standalone Global Navigation Satellite System (GNSS) using a Simultaneous Localization And Mapping (SLAM) algorithm to generate 3D point clouds along a fixed aerial-lift transect at Hoher Sonnblick, Austria. Six winter runs (March 2023) were processed and compared with summer Unmanned Aircraft System (UAS)-photogrammetry. Intra-system repeatability between same-day scans reached centimetre precision (weighted standard deviation 0.010 m; 95% within
+±
+0.006 m), supporting detection of daily to seasonal changes in snow thickness along the route. Absolute agreement with the UAS reference was limited to decimetre scale, primarily due to registration and standalone GNSS uncertainties rather than sensor range noise. Performance degraded over feature-poor snowfields, and manual segment merging was labor-intensive; consequently, quantitative analyses were restricted to well-constrained segments. Despite these limitations, the results demonstrate the feasibility of gondola-mounted lidar for cost-effective, repeatable snow-thickness mapping.'
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags: ["lidar"]
 
 # Display this page in a list of Featured pages?
-featured: false
+featured: true
 
 # Links
 url_pdf: ''
@@ -76,4 +78,6 @@ image:
 projects: []
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+Monitoring snow distribution in alpine terrain is critical for hydrology, avalanche safety, and climate research, yet traditional surveys are costly, hazardous, and spatially sparse. We assess a gondola-mounted, low-cost Light Detection and Ranging (lidar) system (MOLISENS) for repeated snow monitoring in Real-Time Kinematics (RTK)-denied mountain environments. The system fuses lidar, Inertial Measurement Unit (IMU), and standalone Global Navigation Satellite System (GNSS) using a Simultaneous Localization And Mapping (SLAM) algorithm to generate 3D point clouds along a fixed aerial-lift transect at Hoher Sonnblick, Austria. Six winter runs (March 2023) were processed and compared with summer Unmanned Aircraft System (UAS)-photogrammetry. Intra-system repeatability between same-day scans reached centimetre precision (weighted standard deviation 0.010 m; 95% within
+±
+0.006 m), supporting detection of daily to seasonal changes in snow thickness along the route. Absolute agreement with the UAS reference was limited to decimetre scale, primarily due to registration and standalone GNSS uncertainties rather than sensor range noise. Performance degraded over feature-poor snowfields, and manual segment merging was labor-intensive; consequently, quantitative analyses were restricted to well-constrained segments. Despite these limitations, the results demonstrate the feasibility of gondola-mounted lidar for cost-effective, repeatable snow-thickness mapping.

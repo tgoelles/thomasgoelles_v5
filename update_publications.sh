@@ -1,9 +1,9 @@
-#!/bin/zsh
+#!/bin/bash
 
 # This script updates the publications page of my website from my CV
 
 # concat bib files
-cat /Users/work/Documents/code/CV/publications.bib /Users/work/Documents/code/CV/presentations.bib > all_publications.bib
+cat publications.bib presentations.bib > all_publications.bib
 
 # clean up bib file
 sed -E '/^[[:space:]]*month[[:space:]]*=/s/[0-9-]//g' all_publications.bib > all_publications_clean.bib

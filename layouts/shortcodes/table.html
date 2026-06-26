@@ -1,0 +1,64 @@
+{{/* Table Shortcode for Wowchemy. */}}
+{{/* Local override: replaces removed `getCSV` (gone in Hugo v0.123.0) with `transform.Unmarshal`. */}}
+{{/* Load a CSV table from page dir falling back to remote URL. */}}
+{{/* Defaults to expecting a comma-separated CSV with a header row. */}}
+
+{{/*
+    Docs: https://wowchemy.com/docs/content/writing-markdown-latex/#csv-table
+
+    Parameters
+    ----------
+    path :
+        Path or url to the csv table. Path is relative to the folder where the shortcode is called.
+    delimiter : default ","
+        Field delimiter.
+    header : default "true"
+        If "true", the first row is rendered as the header.
+    caption : optional
+        Caption for the table.
+*/}}
+
+{{ $src := .Get "path" }}
+{{ $delimiter := .Get "delimiter" | default "," }}
+{{ $useHeaderRow := (eq (lower (.Get "header")) "true") | default true }}
+{{ $caption := .Get "caption" }}
+
+{{ $opts := dict "delimiter" $delimiter }}
+{{ $rows := slice }}
+{{ $is_remote := strings.HasPrefix $src "http" }}
+{{ if $is_remote }}
+  {{ with resources.GetRemote $src }}
+    {{ with .Err }}
+      {{ errorf "table shortcode: failed to load remote CSV %q: %s" $src . }}
+    {{ else }}
+      {{ $rows = transform.Unmarshal $opts . }}
+    {{ end }}
+  {{ else }}
+    {{ errorf "table shortcode: unable to fetch remote CSV %q" $src }}
+  {{ end }}
+{{ else }}
+  {{ $path := path.Join "content" $.Page.File.Dir $src }}
+  {{ $rows = transform.Unmarshal $opts (os.ReadFile $path) }}
+{{ end }}
+
+<table class="table">
+  {{ if $useHeaderRow }}
+    {{ $headerRow := index $rows 0 }}
+    {{ $rows = after 1 $rows }}
+    <tr> {{ range $headerRow }} <th>{{ . | markdownify | emojify }}</th> {{ end }} </tr>
+  {{ end }}
+  {{ range $rows }}
+    <tr>
+      {{ range . }}
+        {{ if (findRE "^\\d+$" .) }}
+          <td data-table-dtype="number">{{ . }}</td>
+        {{ else }}
+          <td data-table-dtype="text">{{ . | markdownify | emojify }}</td>
+        {{ end }}
+      {{ end }}
+    </tr>
+  {{ end }}
+  {{ if $caption }}
+    <caption>{{ $caption | markdownify | emojify }}</caption>
+  {{ end }}
+</table>

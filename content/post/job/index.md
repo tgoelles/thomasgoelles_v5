@@ -3,7 +3,7 @@
 
 title: "Researcher with/without PhD for 1.5 years: avalanche detection by machine learning at Uni Graz, Austria"
 subtitle: ""
-summary: ""
+summary: "University of Graz is hiring a researcher (with or without a PhD, 1.5 years) for the RSnowAUT project on machine-learning-based snow avalanche detection from SAR remote sensing. Application deadline: 22 March 2024."
 authors: []
 tags: []
 categories: []

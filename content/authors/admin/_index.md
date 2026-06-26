@@ -1,16 +1,15 @@
 ---
 title: Thomas Goelles
-role: "Scientist at Karl-Franzens-Universität Graz and Virtual Vehicle Research "
-bio: My research interests include glaciology, lidar, albedo and numerical
-  modelling of ice sheet processes
+role: "Data & Software Engineer · Geo-Scientist"
+bio: Data & software engineer and geo-scientist working on lidar, remote sensing,
+  and production-ready data systems, following a PhD in glaciology.
 interests:
-- lidar and point cloud processing
-- glaciology
-- machine learning
-- avalanches
-- reproducible science
-- numerical modelling
-- greenland
+- Lidar & Point Clouds
+- Cryosphere
+- Natural Hazards
+- Earth Observation
+- Process Automation
+- Reproducible Science
 social:
 - icon: envelope
   icon_pack: fas
@@ -21,7 +20,7 @@ social:
   link: https://fosstodon.org/@thomasgoelles
 - icon: researchgate
   icon_pack: fab
-  link: https://www.researchgate.net/profile/Thomas_Goelles2
+  link: https://www.researchgate.net/profile/Thomas-Goelles
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-3925-6260
@@ -36,11 +35,11 @@ social:
   link: https://www.linkedin.com/in/thomasgoelles/
 
 organizations:
-  - name: University of Graz
-    url: https://www.uni-graz.at/
+  - name: Virtual Vehicle Research GmbH
+    url: https://www.v2c2.at
 education:
   courses:
-  - course: PhD in Glaciology
+  - course: PhD in Physics – Glaciology
     institution: The University Centre in Svalbard (UNIS) and Norwegian University of Life Sciences
     year: 2016
   - course: MSc in Environmental System Sciences - Physics
@@ -48,7 +47,10 @@ education:
     year: 2010
   - course: BSc in Environmental System Sciences - Physics
     institution: University of Graz
-    year: 2007
+    year: 2008
+  - course: Ing – Mechanical Engineering
+    institution: HTBLA Weiz
+    year: 1999
 superuser: true
 last_name: Goelles
 highlight_name: true

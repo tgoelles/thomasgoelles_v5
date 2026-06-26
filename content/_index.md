@@ -24,35 +24,35 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Scientist
-          company: Unverisity of Graz
-          company_url: 'https://www.uni-graz.at/de/'
-          company_logo: Logo_Universitaet-Graz_4c
-          location: Graz, Austria
-          date_start: '2021-10-01'
-          date_end: '2025-12-31'
-          description: |2-
-
-            * Lead, Spin-Off Project Development
-            * Principal Investigator, Avalanche Research
-            * Lead Software Architect, 2 Research Projects
-            * Research Software Development & Automation
-            * Grant & Proposal Writing
-
-        - title: Lead Scientist
+        - title: Lead Researcher
           company: Virtual Vehicle Research GmbH
           company_url: 'https://www.v2c2.at'
           company_logo: ""
           location: Graz, Austria
           date_start: '2019-09-01'
-          date_end: '2026-07-31'
+          date_end: ''
           description: |2-
 
-            * Lead projects on automotive lidar research and deployment
-            * Design and maintain data management and reproducible-science workflows
-            * Develop data-science pipelines and analysis tooling
-            * lidar system testing, validation, and field campaigns
-            * Grant and proposal writing
+            * Lead scientist, GeoMar team (Control Systems Group)
+            * Project lead, RSnowAUT snow-avalanche project
+            * Lead of the internal Data Management project
+            * Lidar research, deployment, and analysis tooling
+            * Project acquisition in maritime and geotechnology topics
+
+        - title: Scientist & Spin-off Fellow
+          company: University of Graz
+          company_url: 'https://www.uni-graz.at/'
+          company_logo: Logo_Universitaet-Graz_4c
+          location: Graz, Austria
+          date_start: '2021-10-01'
+          date_end: '2026-04-30'
+          description: |2-
+
+            * Principal Investigator, avalanche remote-sensing research
+            * Lead of the GEOTEQ FFG Spin-off Fellowship (lidar snow monitoring, TRL5→TRL7)
+            * Lead Software Architect across research projects
+            * Research software development & automation
+            * Grant & proposal writing
 
         - title: Guest Lecturer
           company: FH Joanneum
@@ -73,14 +73,14 @@ sections:
     content:
       title: Skills
       items:
-        - name: Geophysics
+        - name: Lidar & Point Clouds
           icon: mountain
           icon_pack: fas
-        - name: Data Science
+        - name: Machine Learning
           icon: chart-line
           icon_pack: fas
-        - name: Automotive
-          icon: car
+        - name: Geospatial Data
+          icon: map-location-dot
           icon_pack: fas
         - name: Python
           icon: python
@@ -160,7 +160,6 @@ sections:
         * Arctic Technology, FH Joanneum
 
         ## Past Teaching
-        * Spatial Statistical Analysis and Visualisation 2
         * Field trip (snow and avalanches)
         * Modeling in Physical Geography
         * Spatial Statistical Analysis and Visualisation 1

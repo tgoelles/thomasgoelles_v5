@@ -27,11 +27,11 @@ publishDate: '2026-01-08T16:52:09.377767Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
-publication_types:
-- '2'
+#publication_types:
+#- '2'
 
 # Publication name and optional abbreviated publication name.
-publication: '*Journal of Glaciology*'
+# publication: '*Journal of Glaciology*'
 publication_short: ''
 
 doi: '10.1017/jog.2025.10105'
